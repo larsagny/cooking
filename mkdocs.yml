@@ -1,0 +1,74 @@
+site_name: Cooking
+
+nav:
+    - Overview: 'index.md'
+    - Soep:
+        - Tomatensoep: 'tomato_soup.md'
+        - Sopa Azteca: 'sopa_azteca.md'
+    - Al Forno: 
+        - Lasgane: 'lasagne.md'
+        - Pasta Spinazie: 'pasta_spinache.md'
+        - Pizza: 'pizza.md'
+        - Aardappelen Gratin: 'p_gratin.md'
+    - Hot 'n Spicy': 
+        - Curry: 'hot.md' 
+    - Zoet:
+        - Crinkle Cookies: 'crinkle_cookies.md'
+        - Citroen Koekjes: 'citroen_koekjes.md'
+        - Caramel Shortbread: 'shortbread.md'
+        - Pompoentaart: 'pompoentaart.md'
+        - Spekkoek: 'spekkoek.md'
+
+theme:
+    name: material
+    logo: assets/rice_48.png
+    favicon: assets/rice_24.png
+    features:
+        - navigation.instant
+        - navigation.tracking
+        - navigation.tabs
+        - navigation.tabs.sticky
+    palette:
+        primary: 'cyan'
+        accent: 'amber'
+
+repo_name: 
+repo_url:
+docs_dir: docs
+
+# plugins:
+#   - search
+#   - i18n:
+#       default_language: en
+#       languages:
+#         de: Deutsch
+#       nav_translations:
+#         de:
+#           Soup: Suppe
+# extra:
+#   alternate:
+#     - name: English
+#       link: ./
+#       lang: en
+#     - name: Deutsch
+#       link: ./de/
+#       lang: de
+
+markdown_extensions:
+    - toc:
+        permalink: 🥄
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+        options:
+            custom_icons:
+            - overrides/.icons        
+    - pymdownx.tabbed:
+        alternate_style: true 
+    - admonition
+    
+
+
+extra_css:
+    - 'css/custom.css'
+
