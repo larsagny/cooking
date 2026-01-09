@@ -31,6 +31,6 @@ jobs:
       run: npm install netlify-cli -g
     - name: Deploy the site with netlify-cli
       env:
-        NETLIFY_SITE_ID: ${{ env.NETLIFY_APP_ID }}
+        NETLIFY_SITE_ID: ${{ vars.NETLIFY_APP_ID }}
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_ACCESS }}
       run: netlify deploy --dir=public --prod
