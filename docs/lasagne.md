@@ -1,23 +1,30 @@
-# :material-bowl-mix-outline: Lasagne
+# :material-bowl-mix-outline: Vegetarische Lasagne
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tristique senectus et netus et. Nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Porttitor rhoncus dolor purus non enim. Pretium quam vulputate dignissim suspendisse in. Auctor elit sed vulputate mi sit amet mauris commodo. Eu nisl nunc mi ipsum faucibus vitae aliquet nec. Quis auctor elit sed vulputate mi sit amet mauris. At varius vel pharetra vel turpis nunc. At augue eget arcu dictum varius duis at consectetur. Sed ullamcorper morbi tincidunt ornare.
+Als dit gerecht op tafel komt, wordt hier ook iedereen blij. Ook nog steeds een van mijn favoriete gerechten. Vaak de tweede dag zelfs nog lekkerder, dus ik maak altijd meer dan genoeg.
 
 ![ready](assets/IMG_20211007_180851.jpg)
 
-Arcu dictum varius duis at consectetur. Enim nunc faucibus a pellentesque sit amet. Porta lorem mollis aliquam ut porttitor leo. Neque sodales ut etiam sit amet nisl purus in mollis. Eget nullam non nisi est sit amet facilisis. Lectus nulla at volutpat diam ut venenatis tellus in metus. Lectus magna fringilla urna porttitor rhoncus dolor. Nibh praesent tristique magna sit amet purus gravida quis. In aliquam sem fringilla ut morbi tincidunt augue. Sit amet est placerat in. Risus viverra adipiscing at in tellus integer feugiat.
 
 ### :octicons-list-unordered-16: Ingrediënten 
 
 === "General"
 
-    * XXX sheets of lasagne
-    * 250 gram of grated cheese 
-    * oregano, basil, thyme or whatever you like
+    * 1/2 half pak lasagne bladeren 
+    * 200 gram geraspte kaas
 
-=== ":tomato: Tomato sauce"
+=== ":tomato: Tomatensaus"
 
-    * 5-10 Ripe tomatos
-    * 1-2 cans of tomatos 
+    * olijfolie
+    * 1 grote ui
+    * 2 tenen knoflook
+    * een paar rijpe tomaten (kan ook zonder)
+    * 1-2 blikken gepelde tomaten
+    * 1 fles passata 
+    * 1 stengel bleekselderij
+    * 1 wortel
+    * 1 aubergine
+    * 1/2 courgette
+    * zout, peper, oregano, basilicum, tijm
 
 
 === ":material-soy-sauce: Bechamel sauce"
@@ -32,10 +39,13 @@ Arcu dictum varius duis at consectetur. Enim nunc faucibus a pellentesque sit am
     * 75 gram parmezaan 
 
 
-### :tomato: Tomato sauce
 
-Arcu dictum varius duis at consectetur. Enim nunc faucibus a pellentesque sit amet. Porta lorem mollis aliquam ut porttitor leo. Neque sodales ut etiam sit amet nisl purus in mollis. Eget nullam non nisi est sit amet facilisis. Lectus nulla at volutpat diam ut venenatis tellus in metus. Lectus magna fringilla urna porttitor rhoncus dolor. Nibh praesent tristique magna sit amet purus gravida quis. In aliquam sem fringilla ut morbi tincidunt augue. Sit amet est placerat in. Risus viverra adipiscing at in tellus integer feugiat.
+Prik een paar gaten in de aubergine met een fork en leg hem in zijn geheel in de oven onder de gril. Draai om de 10 minuten een kwartslag totdat hij helemaal verschrompelt is (je wilt dat het vruchtvlees helemaal zacht is geworden en je de huid er makkelijk van af krijgt).
 
+### :tomato: Tomatensaus
+
+
+Bak de kleingesneden ui en knoflook aan in olijfolie (5 minuten). Voeg de kleingesneden wortel en bleekselderij toe. Af en toe roeren totdat de groente lekker zacht is geworden. Voeg de tomaten toe. Minimaal een uur laten pruttelen. Na 45 minuten voeg je de courgette toe. Haal de aubergine uit de oven, haal de huid ervan af, en hak het vlees in hele kleine stukjes en het bijna een soort brei is. Voek toe aan de saus. Breng op smaak met zout, peper en kruiden.    
 
 
 ### Bechamel sauce
@@ -46,12 +56,19 @@ Doe een flinke laag olijfolie in een kookpan (je kan ook half olijfolie, half zo
 
 ### :material-layers-triple: Layering
 
-Heat up the oven to 180 degrees Celsius. 
+Breng de oven op 180 graden. 
 
-Arcu dictum varius duis at consectetur. Enim nunc faucibus a pellentesque sit amet. Porta lorem mollis aliquam ut porttitor leo. Neque sodales ut etiam sit amet nisl purus in mollis. Eget nullam non nisi est sit amet facilisis. Lectus nulla at volutpat diam ut venenatis tellus in metus. Lectus magna fringilla urna porttitor rhoncus dolor. Nibh praesent tristique magna sit amet purus gravida quis. In aliquam sem fringilla ut morbi tincidunt augue. Sit amet est placerat in. Risus viverra adipiscing at in tellus integer feugiat.
+Pak een grote ovenschaal. De onderste laag is dun en van tomatensaus. Dan een laag lasagne bladeren, dan een laag bechamel. 
+
+
+!!! danger "Kijk out"
+    Goed kijken hoeveel bechamel je hebt! Voor een laag of twee. Het is in ieder geval lekker om nog een klein beetje over te houden om de op de bovenste laag van tomatensaus heen te kunnen gieten. 
+
+
+Je eindigt in ieder geval met een laag tomatensaus. Als het goed is heb je nog een beetje bechamel over, giet dan over de laatste laag heen. Geraspte kaas eroverheen, klaar.     
 
 ![lasagne_raw](assets/lasagne_raw.jpg)
 
 ### :material-fire-circle: Al Forno!
 
-Put in the oven until the chesse is crsipy (~30 min)
+Nu in de oven totdat de kaas lekker knapperig is (~30 min).
