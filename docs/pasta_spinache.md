@@ -1,9 +1,9 @@
-# :material-bowl-mix-outline: Pasta Spinach Al Forno
+# :material-bowl-mix-outline: Pasta Spinazie Al Forno
 
 Het favoriete gerecht hier thuis waar iedereen blij van wordt.  
 
 
-## :octicons-list-unordered-16: Ingrediënten
+### :octicons-list-unordered-16: Ingrediënten
 
 === "General"
 

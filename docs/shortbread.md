@@ -35,3 +35,5 @@ Boter in een pan smelten en dan de condensmelk en de suiker erbij doen. Even op 
 ### Topping
 Smelt eerst de donkere chocolade en verdeel op de cake. Smelt dan de witte chocolade en giet hem in streepjes over de donkere chocola. Pak een tandenstoker een teken een mooi patroon door de twee kleuren chocola over elkaar heen te trekken. 
 
+
+![shortbread_fresh](assets/shortbread_whole.jpg)

@@ -61,7 +61,7 @@ Breng de oven op 180 graden.
 Pak een grote ovenschaal. De onderste laag is dun en van tomatensaus. Dan een laag lasagne bladeren, dan een laag bechamel. 
 
 
-!!! danger "Kijk out"
+!!! danger "Kijk uit"
     Goed kijken hoeveel bechamel je hebt! Voor een laag of twee. Het is in ieder geval lekker om nog een klein beetje over te houden om de op de bovenste laag van tomatensaus heen te kunnen gieten. 
 
 
