@@ -5,12 +5,17 @@ nav:
     - Soep:
         - Tomatensoep: 'tomato_soup.md'
         - Sopa Azteca: 'sopa_azteca.md'
+        # - Noedelsoep: TODO
+    - Pasta: 
+        - Pesto: 'pesto.md'
+        - Bolo: 'bolo.md'
     - Al Forno: 
         - Lasgane: 'lasagne.md'
         - Pasta Spinazie: 'pasta_spinache.md'
         - Pizza: 'pizza.md'
         - Aardappelen Gratin: 'p_gratin.md'
-    - Hot 'n Spicy': 
+    - Oosters: 
+        # - Nasi 
         - Curry: 'hot.md' 
     - Zoet:
         - Crinkle Cookies: 'crinkle_cookies.md'
@@ -59,13 +64,15 @@ markdown_extensions:
         permalink: 🥄
     - pymdownx.emoji:
         emoji_index: !!python/name:materialx.emoji.twemoji
-        emoji_generator: !!python/name:materialx.emoji.to_svg
+        emoji_generator: !!python/name:material.extensions.emoji.to_svg
         options:
             custom_icons:
             - overrides/.icons        
     - pymdownx.tabbed:
         alternate_style: true 
     - admonition
+    - md_in_html
+    - attr_list
     
 
 

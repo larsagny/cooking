@@ -1,6 +1,11 @@
 # :material-cookie: Citroenkoekjes 
 
 
+<figure markdown="span">
+  ![citroen_koekjes](assets/citroen_koekjes.jpg){ width="300" }
+  <figcaption>Ook zonder glazuur heerlijk!</figcaption>
+</figure>
+
 ### :octicons-list-unordered-16: Ingrediënten 
 
 * 1 bio citroen -> schil en sap 

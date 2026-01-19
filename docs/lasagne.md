@@ -45,7 +45,7 @@ Prik een paar gaten in de aubergine met een fork en leg hem in zijn geheel in de
 ### :tomato: Tomatensaus
 
 
-Bak de kleingesneden ui en knoflook aan in olijfolie (5 minuten). Voeg de kleingesneden wortel en bleekselderij toe. Af en toe roeren totdat de groente lekker zacht is geworden. Voeg de tomaten toe. Minimaal een uur laten pruttelen. Na 45 minuten voeg je de courgette toe. Haal de aubergine uit de oven, haal de huid ervan af, en hak het vlees in hele kleine stukjes en het bijna een soort brei is. Voek toe aan de saus. Breng op smaak met zout, peper en kruiden.    
+Bak de kleingesneden ui en knoflook aan in olijfolie (5 minuten). Voeg de kleingesneden wortel en bleekselderij toe. Af en toe roeren totdat de groente lekker zacht is geworden. Voeg de tomaten toe. Minimaal een uur laten pruttelen. Na 45 minuten voeg je de courgette toe. Haal de aubergine uit de oven, haal de huid ervan af, en hak het vlees in hele kleine stukjes en tot dat het bijna een soort brei is. Voeg toe aan de saus. Breng op smaak met zout, peper en kruiden.    
 
 
 ### Bechamel sauce
