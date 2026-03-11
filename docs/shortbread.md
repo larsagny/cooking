@@ -2,8 +2,8 @@
 
 Super lekker en super makkelijk. En ook nog eens mooi ;-)
 
+![ready](assets/shortbread.jpg){ width="350"}
 
-![ready](assets/shortbread.jpg)
 
 === ":material-adjust: Bodem"
 

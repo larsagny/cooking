@@ -1,0 +1,16 @@
+[project]
+name = "cooking"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs>=1.1.2",
+    "mkdocs-material>=6.1.0",
+    "mkdocs-material-extensions>=1.0.1",
+]
+
+[dependency-groups]
+dev = [
+    "ipython>=9.10.0",
+]

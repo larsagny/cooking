@@ -16,6 +16,11 @@ Over de jaren heen is dit recept ontstaan. Best wel wat werk maar dan ook erg le
 * zout, peper, kruiden naar smaak
 
 
+![tomato](assets/tomaten_ontvellen.jpg){ width="250" align=left}
+
 Pak een scherp mes en maak twee sneden in de huid van de tomaat. Kook 2 Liter water en giet over de tomaten heen. Laat 1 minuut staan en schik kort af met koud water. Pel de huid van tomaten af en verwijder het kroontje. 
+
+
+
 
 Bak de ui en de knoflook in olijfolie aan. Blus met een flinke schuit balsamico. Voeg een dun laagje suiker toe en wacht even totdat die is gekarameliseerd. Voeg de tomaten toe en laat op een laag vuur 1 tot 2 uur brutellen met de deksel erop. Voeg zout en peper toe en kruiden die je lekker vindt (basilicum, oregeno, tijm,..). Het lekkerst met vers gebakken brood erbij.

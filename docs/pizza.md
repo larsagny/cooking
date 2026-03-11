@@ -33,7 +33,7 @@ Bestrooi je handen royaal met meel en haal het deeg uit de kom. Maak er weer een
     Kijk uit het deeg niet aan de roller of aan de ondergrond blijft plakken! Bestrooi tussendoor met meel en draai het deeg af en toe. 
 
 
-Leg het deeg op het hete bakblik. Dan de tomatensaus erop verdelen, wat zout, peper en oregano en een dun laagje geraspte kaas. De groeten erop en dan bedekken met nog wat kaas.
+Leg het deeg op het hete bakblik. Dan de tomatensaus erop verdelen, wat zout, peper en oregano en een dun laagje geraspte kaas. De groenten erop en dan bedekken met nog wat kaas.
 
 
 ![pizza_raw](assets/IMG_20210918_173749_pizza.jpg)
