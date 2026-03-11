@@ -1,6 +1,6 @@
 # :material-bowl-mix-outline: Glasnodelsalade
 
-Dit gerecht hebben voor de eerste keer gemaakt toen we nog in de Lorreinstraat woonden. Best wel vaak ook. Toen bracht jij Linne een buikgriepvirus mee uit de creche...wat waren we ziek. Met jou ging het snel weer beter maar je moeder en ik waren er dagenlang slecht aan toe. We moesten Johanna bellen om haar de vragen of ze op jou kon letten. We waren to niets meer in staat. Het laatste wat we hadden gegeten was de glasnoedelsalade. Daarom kwam hij jarenlang niet meer op tafel bij ons. Intussen zijn we er wel overheen. 
+Dit gerecht hebben voor de eerste keer gemaakt toen we ik net in Nederland kwam wonen. Best wel vaak ook. Toen bracht jij, Linne, een buikgriepvirus mee uit de creche...wat waren we ziek. Met jou ging het snel weer beter maar je moeder en ik waren er dagenlang slecht aan toe. We moesten Johanna bellen om haar de vragen of ze op jou kon letten. We waren to niets meer in staat. Het laatste wat we hadden gegeten was de glasnoedelsalade. Daarom kwam hij jarenlang niet meer op tafel bij ons. Intussen zijn we er wel overheen. 
 
 
 ## :octicons-list-unordered-16: Ingrediënten
