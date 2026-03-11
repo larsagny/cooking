@@ -6,10 +6,10 @@ Recepten worden van generatie naar generatie doorgegeven. Ik heb een groot deel 
 
 <div class="grid" markdown>
 
-![](assets/meiden_toetje.jpg){ width="300" height="100" }
-![](assets/linne_brood.JPG){ width="300" height="100" }
-![](assets/nika_appel.jpg){ width="300" height="100" }
-![](assets/linne_pizza.jpg){ width="300" height="100" }
+![](assets/gebakken_aubergine.jpg){ width="300" height="100" }
+![](assets/rijpe_tomaten.jpg){ width="300" height="100" }
+![](assets/shortbread_whole.jpg){ width="300" height="100" }
+![](assets/tagine_ready.jpg){ width="300" height="100" }
 <!-- ![](assets/meiden_ijsje.jpg){ width="200" } -->
 
 </div>

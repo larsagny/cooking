@@ -15,8 +15,6 @@ uv add -r requirements.txt
 ```
 
 
-
-
 ## Run locally
 
 To run locally start the mkdocs server wit the command
