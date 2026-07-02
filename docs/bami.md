@@ -1,7 +1,7 @@
 # :material-bowl-mix-outline: Javaanse Bami
 
 
-Dit recept heb ik [hier gevonden](https://culinessa.com/surinaamse-javaanse-bami/). ik heb een klein beetje aangepast maar de variatie zit vooral in wat je erbij maakt. Ik vind zout-zure komkommers lekker.    
+Dit recept heb ik [hier gevonden](https://culinessa.com/surinaamse-javaanse-bami/). Ik heb het een klein beetje aangepast, maar de variatie zit vooral in wat je erbij maakt. Ik vind zout-zure komkommers lekker.    
 
 
 ## :octicons-list-unordered-16: Ingrediënten
