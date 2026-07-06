@@ -43,7 +43,7 @@ Doe een flinke laag olijfolie in een kookpan (je kan ook half olijfolie, half zo
 Bak eerst de ui in wat olijfolie aan. Voeg dan de spinazie toe. Zodra de spinaziebladeren zijn gekrompen, voeg je zout, peper en flink wat oregano toe. 
 
 
-## :material-fire-circle: Al Forno!
+### :material-fire-circle: Al Forno!
 
 Doe de pasta samen met de spinazie en de saus in een grote ovenschaal. Roer goed. Verdeel de tomaten over de pasta, strooi kaas eroverheen en zet in de oven bij 180 graden. Zodra de kaas knapperig is mag die eruit.  
 

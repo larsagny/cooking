@@ -14,6 +14,9 @@
 * 180 gr meel
 * 1 Ei
 
+
+### :material-book-clock: Bereiding
+
 Poedersuiker, boter, meel, ei, de schil van de citroen en 3 El citroensap kloppen totdat het een glad deeg is. 
 
 160 graden ca 11 minuten bakken 

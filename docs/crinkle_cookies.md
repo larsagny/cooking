@@ -14,6 +14,7 @@ ca. 35 stuks
 * 100 gr poedersuiker 
 
 
+### :material-book-clock: Bereiding
 
 Een dag van tevoren boter, suiker een en snufje zout kloppen. Eieren een voor een onder roeren. Meel, cacao, backpoeder en cardamon toevoegen. Deeg een of beter twee dagen koud zetten.
 

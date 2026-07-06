@@ -1,6 +1,15 @@
-# Cooking
+# Das Kochbuch
 
 
+<div class="grid" markdown>
+
+![](assets/gebakken_aubergine.jpg){ width="350" height="100" }
+![](assets/rijpe_tomaten.jpg){ width="350" height="100" }
+![](assets/shortbread_whole.jpg){ width="350" height="100" }
+![](assets/tagine_ready.jpg){ width="350" height="100" }
+<!-- ![](assets/meiden_ijsje.jpg){ width="200" } -->
+
+</div>
 
 Recepten worden van generatie naar generatie doorgegeven. Ik heb een groot deel van de gerechten die we thuis altijd aten, leren koken met mijn ouders samen. Toen ik het huis uit ging, gaven ze mij een zelfgemaakt kookboek mee met zo'n beetje alle dingen die ze wisten te maken toen. 
 
@@ -17,15 +26,6 @@ Recepten worden van generatie naar generatie doorgegeven. Ik heb een groot deel 
 
 Onze kinderen zeiden ook al tegen ons, dat ze een kookboek wilden krijgen met onze familiegerechten. Hier is die dan, (nog) niet zo lekker ouderwets op papier, maar in ieder geval al in digitale vorm. 
 
-<div class="grid" markdown>
-
-![](assets/gebakken_aubergine.jpg){ width="300" height="100" }
-![](assets/rijpe_tomaten.jpg){ width="300" height="100" }
-![](assets/shortbread_whole.jpg){ width="300" height="100" }
-![](assets/tagine_ready.jpg){ width="300" height="100" }
-<!-- ![](assets/meiden_ijsje.jpg){ width="200" } -->
-
-</div>
 
 
 

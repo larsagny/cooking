@@ -16,6 +16,9 @@ Dit recept hebben we ooit van onze kraamhulp gekregen. Een ongelofelijk aardige 
 * 2 eieren
 
 
+
+### :material-book-clock: Bereiding
+
 Pompoen in kleine stukjes snijden zonder schil en stomen tot ze helemaal zacht zijn.
 
 In een kom stampen met suiker, roomboter, zout, vanillesuiker en 2 eieren 

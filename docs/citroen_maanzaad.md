@@ -25,6 +25,9 @@ Dit recept komt van [Laura's Bakery](https://www.laurasbakery.nl/citroen-maanzaa
     * 150 gram poedersuiker
     * 3 EL Citroensap
 
+
+### :material-book-clock: Bereiding
+
 Je mengt de droge en natte ingrediënten apart van elkaar dus je hebt twee kommen nodig. 
 
 Doe de bloem, basterdsuiker, bakpoeder, zout en de rasp van de twee citroenen bij elkaar en meng ze. In de andere kom meng je met een garde de yoghurt, eieren, vanille extract en de olie. Giet het mengsel daarna bij het droge. Goed mengen, dan bij **170 graden 50-55 minuten** in de oven.

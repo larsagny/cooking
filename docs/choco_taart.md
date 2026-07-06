@@ -19,5 +19,6 @@ Dit recept komt van [Rutger bakt](https://rutgerbakt.nl/taart-recepten/chocolade
     * 80 gr bloem
 
 
+### :material-book-clock: Bereiding
 
 Smelt de choco samen met de boter. Meng de andere ingrediënten behalve het meel in een kom. Voeg de gesmolten chocolade toe. Voeg als laatste de bloem toe. Giet in een met bakpapier bekleede springvorm en bak **25-30 minuten bij 180** graden. Zodra de taart klaar en afgekoeld is, bestrooi met cacao.
