@@ -6,7 +6,7 @@ Dit gerecht komt regelmatig op tafel bij ons omdat iedereen het lekker vind en h
 Ik gebruik meestal wortel, bleekselderij, paprika en courgette als groenten. Maar je kan er in principe alles in doen wat je maar wilt.
 
 
-## :octicons-list-unordered-16: Ingrediënten 
+### :octicons-list-unordered-16: Ingrediënten 
 
 
 * Ui 
@@ -26,6 +26,7 @@ Ik gebruik meestal wortel, bleekselderij, paprika en courgette als groenten. Maa
 * 1 zak tortilla chips
 
 
+### :material-book-clock: Bereiding
 
 Bak de ui en knoflook aan in zonnebloemolie. Doe de kleingesneden wortel een bleekselderij erbij en bak nog een paar minuten. Voeg kokend water, de bouillonblok en de tomaat uit blik toe. Zodra de groeten zacht zijn voeg de kleingesneden courgette, paprika en de bonen toe. Breng op smaak met zout en peper. 
 

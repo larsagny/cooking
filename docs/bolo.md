@@ -22,6 +22,9 @@
     * zout, peper, oregano, basilicum, tijm
 
 
+
+### :material-book-clock: Bereiding
+
 Prik een paar gaten in de aubergine met een fork en leg hem in zijn geheel in de oven onder de gril. Draai om de 10 minuten een kwartslag totdat hij helemaal verschrompelt is (je wilt dat het vruchtvlees helemaal zacht is geworden en je de huid er makkelijk van af krijgt).
 
 Snij de wortel en de stukken pompoen in ongeveer even grote stukken, bestrijk met wat olie en zet ook in de oven onder de gril. Ga zodra de bovenkant bruin is een keer draaien. Haal uit de oven als de stukjes zacht zijn en een goede kleur hebben

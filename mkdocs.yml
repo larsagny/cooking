@@ -1,7 +1,7 @@
 site_name: Cooking
 
 nav:
-    - Overview: 'index.md'
+    - Das Kochbuch: 'index.md'
     - Soep:
         - Tomatensoep: 'tomato_soup.md'
         - Sopa Azteca: 'sopa_azteca.md'
@@ -14,8 +14,9 @@ nav:
         - Pasta Spinazie: 'pasta_spinache.md'
         - Pizza: 'pizza.md'
         - Aardappelen Gratin: 'p_gratin.md'
+        - Rainers Focccacia: 'foccacia.md'
     - Oosters: 
-        # - Nasi 
+        - Maleisische Nasi: 'nasi.md' 
         - Glasnoedelsalade: 'glasnodel_salade.md'
         - Javaanse Bami: 'bami.md'
     - Zoet:

@@ -3,14 +3,15 @@
 Mensen zijn vaak verbaasd als ze zien dat we het deeg zelf maken. Pizzadeeg maken is echter een van makkelijkste dingen! Je hebt alleen bloem, zout, water, olijfolie, gist en wat tijd nodig.  
 
 
-### :octicons-list-unordered-16: Ingredients
+### :octicons-list-unordered-16: Ingrediënten
 
 === ":flatbread: Deeg"
 
-    * 200 gram meel
+    * 200 gr meel
     * 2 EL olijfolie
     * water uit de kraan
     * zout
+    * een pakje gist (of een halve verse blok)
 
 
 === ":cheese: Beleg"
