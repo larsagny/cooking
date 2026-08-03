@@ -5,7 +5,7 @@ Dit is het recept van Rainer, dat hij ergens in Italië van een kok heeft gekreg
 
 <figure markdown="span">
   ![aubergine](assets/foccacia_rainer.jpg){ width="500" }
-  <figcaption>Het recept van mijn Vader.</figcaption>
+  <figcaption>Het recept van mijn vader.</figcaption>
 </figure>
 
 ### :octicons-list-unordered-16: Ingrediënten
@@ -26,7 +26,11 @@ Maak een deeg van de ingrediënten, behalve de aardappelen. Zet op een warme ple
 
 In de tussentijd kook je de aardappelen (zonder schil, dan kan je ze gelijk verwerken). Het beste gebruik je iets kruimige aardappelen. Stamp ze met een beetje van het kookvocht. Meng het deeg met de aardappelstamp. Vet een bakblik in met olijfolie en verdeel het deeg erop. Bestrooi met zeezout en een beetje rozemarijn.  
 
+![klaar voor de oven](assets/foccacia_raw.jpg)
+
 
 ### :material-fire-circle: Al Forno!
 
-Nu in de oven bij 220 graden.
+Nu in de oven voor 30 minuten bij 200 graden.
+
+![mmmmh](assets/foccacia_ready.jpg)

@@ -3,6 +3,11 @@
 
 Dit recept hebben we ooit van onze kraamhulp gekregen. Een ongelofelijk aardige vrouw die zoveel voor ons deed dat ik veel tijd in de keuken heb doorgebracht om naar lieve lust te bakken en te koken. Uiteraard mocht ze altijd mee eten en op gegeven moment stond ze met deze taart voor de deur om iets terug te doen. 
 
+<figure markdown="span">
+  ![original](assets/pompoen_taart_receptr.jpg){ width="500" }
+  <figcaption>Het recept van de kraamhulp.</figcaption>
+</figure>
+
 
 ### :octicons-list-unordered-16: Ingrediënten 
 
