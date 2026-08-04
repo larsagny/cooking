@@ -32,10 +32,14 @@ Je kan de pasta alvast voorkoken. Niet te lang, anders wordt de pasta te zacht. 
 
 Ook de tomaten kan je al ontvellen en in kleine stukjes snijden. Doe ze in een kom met een beetje olijfolie en oregano.
 
+![chopped_tomatos](assets/chopped_tomatos.jpg)
 
 ### Bechamel sauce
 
 Doe een flinke laag olijfolie in een kookpan (je kan ook half olijfolie, half zonnebloemolie doen), voeg meel toe en roer met een garde totdat je een redelijk vast mengsel hebt. Voeg een scheut melk toe en blijf roeren. Zodra het mengsel weer begint hard te worden, voeg je weer wat melk toe. En maar roeren! Dit blijf je doen totdat je een halve liter melk hebt verwerkt. Dan doe je de geraspte kaas erbij, muskaatnoot, een beetje zout en wat peper. 
+
+
+![chopped_tomatos](assets/bechamel.jpg)
 
 
 ### Spinazie
@@ -45,5 +49,9 @@ Bak eerst de ui in wat olijfolie aan. Voeg dan de spinazie toe. Zodra de spinazi
 
 ### :material-fire-circle: Al Forno!
 
-Doe de pasta samen met de spinazie en de saus in een grote ovenschaal. Roer goed. Verdeel de tomaten over de pasta, strooi kaas eroverheen en zet in de oven bij 180 graden. Zodra de kaas knapperig is mag die eruit.  
 
+![pasta_spinazie_raw](assets/pasta_spinazie_raw.jpg)
+
+Doe de pasta samen met de spinazie en de saus in een grote ovenschaal. Roer goed. Verdeel de tomaten over de pasta, strooi kaas eroverheen en zet in de oven bij **180 graden**. Zodra de kaas knapperig is mag die eruit.  
+
+![pasta_spinazie_ready](assets/pasta_spinazie_ready.jpg)

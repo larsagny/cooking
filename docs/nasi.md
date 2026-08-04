@@ -37,3 +37,6 @@ Zet eerst de rijst op het vuur (**1 beker rijst + 2 bekker water + zout**). Zodr
 Bak de gemeber samen met de knoflook in olie totdat ze een kleur krijgen. Voeg de groente toe en bak totdat ze een beetje zachter zijn geworden. Voeg de rijst, sojasaus, oestersaus toe en roer geod. Breng op smaak met wat peper en sesamolie. Versier met lente-ui.
 
 Bak de eieren en leg er per bord eentje op de Nasi. Gebakken uien zijn er ook lekker bij, net als kroepoek. 
+
+
+![nasi](assets/nasi.jpg)

@@ -27,6 +27,7 @@ nav:
         - Pompoentaart: 'pompoentaart.md'
         - Chocolade Taart: 'choco_taart.md'
         - Spekkoek: 'spekkoek.md'
+        #- Sofies New York Cheese Cake: 'cheese_cake.md'
 
 theme:
     name: material
