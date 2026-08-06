@@ -3,18 +3,20 @@
 
 <div class="grid" markdown>
 
-![](assets/choco_ready.jpg){ width="300 height="100" }
-![](assets/choco_after_oven.jpg){ width="300" height="100" }
+![](assets/choco_ready.jpg){ width="340" height="100" }
+![](assets/choco_after_oven.jpg){ width="340" height="100" }
 
 </div>
 
-Dit recept komt van [Rutger bakt](https://rutgerbakt.nl/taart-recepten/chocoladetaart/recept-smeuige-chocoladetaart/). We kregen een stuk op de verjaardag van Erik en vonden hem zo lekker, dat Neel hem voor haar verjaardag wilde hebben. 
+Dit recept komt van [Rutger bakt](https://rutgerbakt.nl/taart-recepten/chocoladetaart/recept-smeuige-chocoladetaart/). We kregen een stuk op de verjaardag van Erik en vonden hem zo lekker, dat Neel hem voor haar verjaardag wilde hebben. Ook heerlijk met een bolletje vanille-ijs! 
 
+
+![](assets/choco_piece_icecream.jpg)
 
 ### :octicons-list-unordered-16: Ingrediënten 
 
 
-=== ":material-adjust: Bodem"
+=== ":material-adjust: "
 
 
     * 325 gr pure choco
