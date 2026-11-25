@@ -1,5 +1,8 @@
 # :material-cookie: Crinkle Cookies
 
+
+![](assets/crinkle_cookies_ready.jpg){ width="500" height="500" }
+
 ### :octicons-list-unordered-16: Ingrediënten 
 
 ca. 35 stuks
@@ -18,8 +21,14 @@ ca. 35 stuks
 
 Een dag van tevoren boter, suiker een en snufje zout kloppen. Eieren een voor een onder roeren. Meel, cacao, backpoeder en cardamon toevoegen. Deeg een of beter twee dagen koud zetten.
 
+![](assets/crinkle_deeg_ready.jpg){ width="300" height="100" }
 
 Pak twee lepels en schep kleine bolletjes deeg op een bord met poedersuiker. Erin rollen en op een bakblik met bakpapier leggen. Laat ca 3 cm afstand tussen de bollen. 
+
+
+![](assets/crinkle_cookies_rolling.jpg){ width="300" height="100" }
+
+
 
 Bak bij 180 graden ongeveer 10-12 minuten 
 
